@@ -78,20 +78,20 @@ plt.axis("off")
 plt.show()
 ```
 ## Output:
-### ORIGINAL IMAGE:
+## ORIGINAL IMAGE:
 ![daisy](https://github.com/vasundrasriravi/EDGE-DETECTION/assets/119393983/758807b6-4336-483e-9983-19a28bc73f5c)
 
-### SOBEL EDGE DETECTOR
+## SOBEL EDGE DETECTOR:
 ![sobel x](https://github.com/vasundrasriravi/EDGE-DETECTION/assets/119393983/4f673061-3150-4575-bbca-7f5c098e4297)
 
 ![sobel y](https://github.com/vasundrasriravi/EDGE-DETECTION/assets/119393983/6ac17fe3-426c-4860-b158-5da42be0dbb0)
 
 ![sobel xy](https://github.com/vasundrasriravi/EDGE-DETECTION/assets/119393983/a6cbc839-ca0c-411b-9e68-97c92065b163)
 
-### LAPLACIAN EDGE DETECTOR
+## LAPLACIAN EDGE DETECTOR:
 ![laplacian](https://github.com/vasundrasriravi/EDGE-DETECTION/assets/119393983/6e5aa7c0-55e6-4d1d-bf64-e6d122b23e6e)
 
-### CANNY EDGE DETECTOR
+## CANNY EDGE DETECTOR:
 ![canny](https://github.com/vasundrasriravi/EDGE-DETECTION/assets/119393983/d858bb76-c707-47eb-b8b6-31a3ad24486c)
 
 ## Result:
